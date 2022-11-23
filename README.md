@@ -4,7 +4,7 @@ which detect harassment in chat using nlp techniques. The chat data belong to Di
 
 Notbook is also availble on google colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iWFmz-VUbeGX8-ueXcE7kLRK_hFGu4KJ?usp=sharing)
 
-# Notbook Table of Contents
+## Notbook Table of Contents
 - Setup Environment
 - Load and Read Data
 - Data Preprocessing and EDA
