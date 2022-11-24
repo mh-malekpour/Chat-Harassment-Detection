@@ -1,6 +1,6 @@
 # Chat Harassment Detection (Hackathon)
-This repository contains the Divar platform health contest code and persian report 
-which detect harassment in chat using nlp techniques. The chat data belong to Divar company which is a classified ads and e-commerce online platform for users in Iran with 30 million monthly active users.
+This repository contains the Divar platform's health hackathon code and persian report 
+which detect harassment in users'chat using NLP techniques. The chat data belong to Divar company which is a classified ads and e-commerce online platform for users in Iran with 30 million monthly active users.
 
 **I came in 6th out of 50 competitors in the hackathon with 90% model accuracy.**
 
